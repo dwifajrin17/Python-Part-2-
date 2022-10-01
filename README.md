@@ -23,7 +23,7 @@ function will return a boolean value True or False
 
 **2. Operator, Operands, and Expressions**
 - Arithmetic Operators
-  * (+) Addition 
+  (+) Addition 
   (-) Substraction
   (*) Multiplication
   (/) Divide
@@ -31,48 +31,48 @@ function will return a boolean value True or False
   (**) Exponent
   (//) Floor Division
  - Boolean AND, OR
-  The 'and' keyword is a logical operator and is used to combine conditional statements, both conditions must be fullfilled
-  The 'OR' keyword is used in a boolean expression to check that there is at least one true, if just one side is true the entire expression is true
+   * The 'and' keyword is a logical operator and is used to combine conditional statements, both conditions must be fullfilled
+   * The 'OR' keyword is used in a boolean expression to check that there is at least one true, if just one side is true the entire expression is true
  - Assignment Operator
-  * (=) Equal
-  * (+=) Add and Assign 
-  * (-+) Substract AND
-  * (*=) Multiply AND
-  * (/=) Divide AND
-  * (%=) Modulus AND
-  * (**=) Exponent AND
-  * (//= ) Floor Division
+  (=) Equal
+  (+=) Add and Assign 
+  (-+) Substract AND
+  (*=) Multiply AND
+  (/=) Divide AND
+  (%=) Modulus AND
+  (**=) Exponent AND
+  (//= ) Floor Division
  - Precedence Operator
-  * Python will always evaluate the arithmetic operators first (** is highest, then multiplication/ division, then addition/subtraction)
+   * Python will always evaluate the arithmetic operators first (** is highest, then multiplication/ division, then addition/subtraction)
 
 **3. Conditional Expression**
  - if
-  * Only a statement is True will be executed, if it is False it will not, in Python, the body of the if the indentation indicates statement, the body starts with an indentation and the first unindented line marks the end
+   * Only a statement is True will be executed, if it is False it will not, in Python, the body of the if the indentation indicates statement, the body starts with an indentation and the first unindented line marks the end
  - else
-  * The if..else statement evaluates test expression and will execute the body of if only when the test condition is True, if it is False it will not. 'else' is optional
+   * The if..else statement evaluates test expression and will execute the body of if only when the test condition is True, if it is False it will not. 'else' is optional
  - elif (else if)
-  * If the condition for if is False, it checks the condition of the next elif block and so on, if it is False the body of else is executed. Only one block among the several if...elif...else blocks is executed according to the condition In other words, we can say that elif is pythons way of saying "if the previous conditions were not true, then try this condition"
+   * If the condition for if is False, it checks the condition of the next elif block and so on, if it is False the body of else is executed. Only one block among the several if...elif...else blocks is executed according to the condition In other words, we can say that elif is pythons way of saying "if the previous conditions were not true, then try this condition"
   
 **4. Loop**
  - For Loops
-  * For loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string)
+   * For loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string)
  - Nested Loops
-  * Nested loop is a loop inside a loop, the "inner loop" will be executed one time for each iteration of the "outer loop"
+   * Nested loop is a loop inside a loop, the "inner loop" will be executed one time for each iteration of the "outer loop"
  - While Loop
-  * The while statement creates a loop that executes a specified statement as long as the test condition evaluates to true. The condition is evaluated before executing the statement 
+   * The while statement creates a loop that executes a specified statement as long as the test condition evaluates to true. The condition is evaluated before executing the statement 
  - Loop Control Statement
-  * Break, The Break Statement is a loop control statement that is used to terminate the loop
-  * Continue, The continue statement is used when we want to skip a particular condition and continue the rest execution
-  * The pass statement is used as a placeholder for future code. When it's executed, nothing happen, but you avoid getting an error
+   * Break, The Break Statement is a loop control statement that is used to terminate the loop
+   * Continue, The continue statement is used when we want to skip a particular condition and continue the rest execution
+   * The pass statement is used as a placeholder for future code. When it's executed, nothing happen, but you avoid getting an error
   
 **5. List Comprehension**  
  - List Comprehension is a way to generate new list based on pre existing list or iterables
  
-**6. Handlin Error**
+**6. Handling Error**
  - Syntax Error
-  * Syntax errors occur when Python can't understand what we mean
+   * Syntax errors occur when Python can't understand what we mean
  - Exceptions
-  * Errors that occur while the process in in progres are called exceptions and can be fatal if not handled
+   * Errors that occur while the process in in progres are called exceptions and can be fatal if not handled
   
 
 
