@@ -23,7 +23,7 @@ function will return a boolean value True or False
 
 **2. Operator, Operands, and Expressions**
 - Arithmetic Operators
-  (+) Addition 
+  * (+) Addition 
   (-) Substraction
   (*) Multiplication
   (/) Divide
