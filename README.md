@@ -23,25 +23,25 @@ function will return a boolean value True or False
 
 **2. Operator, Operands, and Expressions**
 - Arithmetic Operators
-  (+) Addition 
-  (-) Substraction
-  (*) Multiplication
-  (/) Divide
-  (%) Modulus
-  (**) Exponent
-  (//) Floor Division
+   * (+) Addition 
+   * (-) Substraction
+   * (*) Multiplication
+   * (/) Divide
+   * (%) Modulus
+   * (**) Exponent
+   * (//) Floor Division
  - Boolean AND, OR
    * The 'and' keyword is a logical operator and is used to combine conditional statements, both conditions must be fullfilled
    * The 'OR' keyword is used in a boolean expression to check that there is at least one true, if just one side is true the entire expression is true
  - Assignment Operator
-  (=) Equal
-  (+=) Add and Assign 
-  (-+) Substract AND
-  (*=) Multiply AND
-  (/=) Divide AND
-  (%=) Modulus AND
-  (**=) Exponent AND
-  (//= ) Floor Division
+   * (=) Equal
+   * (+=) Add and Assign 
+   * (-+) Substract AND
+   * (*=) Multiply AND
+   * (/=) Divide AND
+   * (%=) Modulus AND
+   * (**=) Exponent AND
+   * (//= ) Floor Division
  - Precedence Operator
    * Python will always evaluate the arithmetic operators first (** is highest, then multiplication/ division, then addition/subtraction)
 
