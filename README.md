@@ -3,7 +3,7 @@
 **1. List, Set, and String Operations**
 - Len 
   * The len method will return the sum of the total items in an object. on a string, this function will return the number of characters
- - Min and Max
+- Min and Max
   * The min and max functions are to find out what the minimum and maximum values are.
 - Count
   * The count function is to find out how many times an object appears in the list
